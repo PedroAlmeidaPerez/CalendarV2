@@ -1,0 +1,21 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="1" />
+      <entry action="$Undo" count="2" />
+      <entry action="AddFrameworkSupport" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="EditorBackSpace" count="29" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorEnter" count="1" />
+      <entry action="EditorPaste" count="1" />
+      <entry action="Move to package  main.java.controller " count="1" />
+      <entry action="Move to package  main.java.model " count="1" />
+      <entry action="NewClass" count="3" />
+      <entry action="NewDir" count="5" />
+      <entry action="RenameElement" count="1" />
+      <entry action="SaveAll" count="1" />
+    </counts>
+  </component>
+</application>
