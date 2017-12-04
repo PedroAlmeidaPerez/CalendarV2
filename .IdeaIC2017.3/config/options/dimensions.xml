@@ -9,6 +9,18 @@
     <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
     <location key="chooseDestDirectoryDialog.0.0.1366.768" x="497" y="148" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="365" y="287" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="109" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="26" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="88" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="126" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="170" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="170" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="170" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="170" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="234" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="234" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="234" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="234" />
   </component>
 </application>

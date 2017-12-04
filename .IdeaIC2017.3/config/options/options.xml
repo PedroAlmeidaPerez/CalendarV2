@@ -5,8 +5,12 @@
     <property name="project.wizard.template" value="Java" />
     <property name="file.chooser.recent.files" value="C:/Program Files/Java/jdk-9.0.1" />
     <property name="jdk.selected.JAVA_MODULE" value="9.0" />
-    <property name="lastTip" value="1" />
-    <property name="file.gist.reindex.count" value="2" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6118211" />
+    <property name="lastTip" value="8" />
+    <property name="file.gist.reindex.count" value="3" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6230032" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="android-component-compatibility-check" value="1512140242614" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
 </application>

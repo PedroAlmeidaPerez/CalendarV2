@@ -1,8 +1,12 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="File -&gt; Save All" count="1" />
-      <entry path="VCS -&gt; Commit" count="2" />
+      <entry path="Build -&gt; Build Project" count="1" />
+      <entry path="Edit -&gt; Redo" count="1" />
+      <entry path="File -&gt; Save All" count="2" />
+      <entry path="Run -&gt; Run..." count="2" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
     </counts>
   </component>
 </application>
