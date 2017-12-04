@@ -3,10 +3,12 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/IdeaProjects/CalendarV2" />
+        <option value="$USER_HOME$/IdeaProjects/CalendarDesktop" />
       </list>
     </option>
     <option name="openPaths">
       <list>
+        <option value="$USER_HOME$/IdeaProjects/CalendarDesktop" />
         <option value="$USER_HOME$/IdeaProjects/CalendarV2" />
       </list>
     </option>
@@ -14,13 +16,24 @@
     <option name="pid" value="7916" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/IdeaProjects/CalendarDesktop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512399738867" />
+              <option name="buildTimestamp" value="1511791672291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/CalendarV2">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IC-173.3727.127" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1512381514694" />
+              <option name="projectOpenTimestamp" value="1512399738867" />
               <option name="buildTimestamp" value="1511791672291" />
             </RecentProjectMetaInfo>
           </value>

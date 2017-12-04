@@ -3,10 +3,14 @@
     <counts>
       <entry path="Build -&gt; Build Project" count="1" />
       <entry path="Edit -&gt; Redo" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
       <entry path="File -&gt; Save All" count="2" />
       <entry path="Run -&gt; Run..." count="2" />
-      <entry path="VCS -&gt; Commit" count="3" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Commit" count="4" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="2" />
+      <entry path="VCS -&gt; Update Project" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
     </counts>
   </component>
 </application>

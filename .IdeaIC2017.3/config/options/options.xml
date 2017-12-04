@@ -3,14 +3,17 @@
     <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="project.wizard.template" value="Java" />
-    <property name="file.chooser.recent.files" value="C:/Program Files/Java/jdk-9.0.1" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/CalendarV2&#10;C:/Program Files/Java/jdk-9.0.1" />
     <property name="jdk.selected.JAVA_MODULE" value="9.0" />
     <property name="lastTip" value="8" />
-    <property name="file.gist.reindex.count" value="3" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6230032" />
+    <property name="file.gist.reindex.count" value="16" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6357827" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="android-component-compatibility-check" value="1512140242614" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.69265366" />
+    <property name="last.imported.location" value="$USER_HOME$/IdeaProjects/CalendarV2" />
+    <property name="create.project.preferred.importer" value="Maven" />
   </component>
 </application>

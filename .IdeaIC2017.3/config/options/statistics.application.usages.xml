@@ -1,10 +1,12 @@
 <application>
   <component name="UsageTrigger">
     <counts>
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
       <entry feature="StripeButton[Version Control].shown" count="1" />
-      <entry feature="execute.Application.Debug" count="1" />
-      <entry feature="execute.Application.Run" count="78" />
+      <entry feature="execute.Application.Debug" count="3" />
+      <entry feature="execute.Application.Run" count="105" />
       <entry feature="ideaapp.started" count="4" />
+      <entry feature="terminal.win" count="1" />
       <entry feature="tips.of.the.day.next" count="4" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="4" />
