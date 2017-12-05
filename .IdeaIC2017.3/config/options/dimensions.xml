@@ -19,6 +19,8 @@
     <location key="NewModule_or_Project.wizard.0.0.1366.768" x="325" y="30" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="118" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="458" y="253" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1366.0.1680.1050" x="1936" y="282" />
+    <location key="#com.intellij.ide.util.MemberChooser.1366.0.1680.1050" x="2011" y="244" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="170" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="170" />
@@ -28,5 +30,13 @@
     <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="234" />
     <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="234" />
     <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="234" />
+    <size key="GridCell.Tab.0.left.1366.0.1680.1050" width="1680" height="263" />
+    <size key="GridCell.Tab.0.center.1366.0.1680.1050" width="1680" height="263" />
+    <size key="GridCell.Tab.0.right.1366.0.1680.1050" width="1680" height="263" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1680.1050" width="1680" height="263" />
+    <size key="GridCell.Tab.1.left.1366.0.1680.1050" width="1680" height="358" />
+    <size key="GridCell.Tab.1.center.1366.0.1680.1050" width="1680" height="358" />
+    <size key="GridCell.Tab.1.right.1366.0.1680.1050" width="1680" height="358" />
+    <size key="GridCell.Tab.1.bottom.1366.0.1680.1050" width="1680" height="358" />
   </component>
 </application>

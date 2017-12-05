@@ -1,79 +1,94 @@
 <application>
   <component name="ActionsCollector">
     <counts>
+      <entry action="$Copy" count="6" />
       <entry action="$Cut" count="1" />
       <entry action="$Delete" count="4" />
       <entry action="$Paste" count="2" />
       <entry action="$Redo" count="1" />
-      <entry action="$Undo" count="174" />
+      <entry action="$Undo" count="304" />
+      <entry action="Access static via class reference" count="2" />
       <entry action="ActivateProjectToolWindow" count="2" />
       <entry action="ActivateTerminalToolWindow" count="2" />
       <entry action="ActivateVersionControlToolWindow" count="3" />
+      <entry action="Add Single-Member Static Import" count="3" />
+      <entry action="Add constructor parameters" count="1" />
       <entry action="AddFrameworkSupport" count="1" />
       <entry action="Change method signature from usage" count="1" />
-      <entry action="CheckinProject" count="5" />
+      <entry action="CheckinProject" count="6" />
       <entry action="ChooseRunConfiguration" count="2" />
       <entry action="CompileDirty" count="1" />
+      <entry action="Convert to Hexadecimal" count="1" />
+      <entry action="Convert to Octal" count="1" />
       <entry action="CopyElement" count="1" />
+      <entry action="Coverage" count="1" />
       <entry action="Create Class from Usage" count="1" />
       <entry action="Create field from Usage" count="1" />
       <entry action="Create method from usage" count="5" />
-      <entry action="Debug" count="4" />
+      <entry action="Debug" count="6" />
       <entry action="Edit method contract" count="2" />
-      <entry action="EditorBackSpace" count="1289" />
-      <entry action="EditorChooseLookupItem" count="92" />
-      <entry action="EditorChooseLookupItemReplace" count="17" />
-      <entry action="EditorCopy" count="36" />
-      <entry action="EditorCut" count="37" />
+      <entry action="EditorBackSpace" count="2460" />
+      <entry action="EditorChooseLookupItem" count="213" />
+      <entry action="EditorChooseLookupItemReplace" count="19" />
+      <entry action="EditorCopy" count="72" />
+      <entry action="EditorCut" count="59" />
       <entry action="EditorDeleteLine" count="1" />
-      <entry action="EditorDown" count="3784" />
-      <entry action="EditorDownWithSelection" count="124" />
-      <entry action="EditorEnter" count="179" />
-      <entry action="EditorEscape" count="14" />
-      <entry action="EditorLeft" count="2335" />
-      <entry action="EditorLeftWithSelection" count="668" />
+      <entry action="EditorDown" count="4603" />
+      <entry action="EditorDownWithSelection" count="165" />
+      <entry action="EditorEnter" count="302" />
+      <entry action="EditorEscape" count="28" />
+      <entry action="EditorLeft" count="3887" />
+      <entry action="EditorLeftWithSelection" count="1032" />
+      <entry action="EditorLineEndWithSelection" count="1" />
       <entry action="EditorPageDown" count="28" />
       <entry action="EditorPageUp" count="10" />
-      <entry action="EditorPaste" count="88" />
-      <entry action="EditorPreviousWord" count="1" />
-      <entry action="EditorRight" count="3477" />
-      <entry action="EditorRightWithSelection" count="1318" />
+      <entry action="EditorPaste" count="160" />
+      <entry action="EditorPreviousWord" count="2" />
+      <entry action="EditorRight" count="5251" />
+      <entry action="EditorRightWithSelection" count="2209" />
+      <entry action="EditorScrollToCenter" count="1" />
       <entry action="EditorScrollUp" count="1" />
-      <entry action="EditorTab" count="68" />
-      <entry action="EditorUp" count="3613" />
-      <entry action="EditorUpWithSelection" count="58" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="140" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="4128" />
+      <entry action="EditorUpWithSelection" count="109" />
       <entry action="Enable  Settings|Code Style|Imports|Optimize imports on the fly " count="1" />
       <entry action="ExpandAllToLevel1" count="1" />
-      <entry action="Find" count="13" />
+      <entry action="Find" count="17" />
       <entry action="FindUsages" count="1" />
-      <entry action="Fix Variable Type" count="2" />
+      <entry action="Fix Variable Type" count="3" />
       <entry action="Fix modifiers" count="5" />
       <entry action="Fix return type" count="1" />
-      <entry action="Generate" count="6" />
-      <entry action="Import class" count="4" />
+      <entry action="Generate" count="8" />
+      <entry action="GotoClass" count="2" />
+      <entry action="Import class" count="5" />
       <entry action="ImportProject" count="1" />
       <entry action="Insert new" count="2" />
+      <entry action="Introduce local variable" count="2" />
       <entry action="Maven" count="2" />
       <entry action="Move to package  main.java.controller " count="1" />
       <entry action="Move to package  main.java.model " count="1" />
-      <entry action="NewClass" count="7" />
+      <entry action="NewClass" count="8" />
       <entry action="NewDir" count="6" />
-      <entry action="NextTemplateVariable" count="1" />
+      <entry action="NextTemplateVariable" count="2" />
       <entry action="OpenFile" count="1" />
       <entry action="Optimize imports" count="3" />
+      <entry action="Remove unnecessary semicolon" count="1" />
       <entry action="Rename Wrong Reference" count="1" />
-      <entry action="RenameElement" count="3" />
-      <entry action="Run" count="125" />
+      <entry action="RenameElement" count="4" />
+      <entry action="Run" count="286" />
       <entry action="SaveAll" count="26" />
       <entry action="Setup JDK Location" count="1" />
-      <entry action="ShowIntentionActions" count="77" />
-      <entry action="StepInto" count="4" />
+      <entry action="ShowIntentionActions" count="110" />
+      <entry action="Split Declaration" count="1" />
+      <entry action="StepInto" count="50" />
       <entry action="StepOver" count="16" />
-      <entry action="Stop" count="13" />
-      <entry action="ToggleLineBreakpoint" count="3" />
-      <entry action="Vcs.Push" count="3" />
+      <entry action="Stop" count="102" />
+      <entry action="ToggleLineBreakpoint" count="5" />
+      <entry action="Vcs.Push" count="4" />
       <entry action="Vcs.UpdateProject" count="1" />
-      <entry action="Wrap Expression" count="4" />
+      <entry action="Wrap Expression" count="6" />
     </counts>
   </component>
 </application>
