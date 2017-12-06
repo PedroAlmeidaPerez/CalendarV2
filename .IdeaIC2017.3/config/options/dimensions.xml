@@ -21,6 +21,11 @@
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="458" y="253" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1366.0.1680.1050" x="1936" y="282" />
     <location key="#com.intellij.ide.util.MemberChooser.1366.0.1680.1050" x="2011" y="244" />
+    <location key="CommitChangelistDialog2.1366.0.1680.1050" x="1820" y="131" />
+    <location key="Vcs.Push.Dialog.1366.0.1680.1050" x="1882" y="265" />
+    <location key="com.intellij.ide.util.TipDialog.1366.0.1680.1050" x="1872" y="351" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1366.0.1680.1050" x="1880" y="0" />
+    <location key="refactoring.ChangeSignatureDialog.1366.0.1680.1050" x="1946" y="159" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="170" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="170" />

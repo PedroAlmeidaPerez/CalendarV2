@@ -1,7 +1,8 @@
 package mainApp;
 
 
- import main.java.controller.CalendarController;
+import main.java.controller.CalendarController;
+import main.java.view.Cabecera;
 import main.java.view.CalendarView;
 
 import java.util.Calendar;
@@ -16,10 +17,8 @@ import java.util.GregorianCalendar;
 
          Calendar model = new GregorianCalendar();
          CalendarView view = new CalendarView(model);
-
-
-         CalendarController controller = new CalendarController(model, view );
-
+         Cabecera cabeceraView = new Cabecera(model);
+         CalendarController controller = new CalendarController(model, cabeceraView);
 
      }
 }

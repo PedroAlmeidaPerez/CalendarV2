@@ -2,9 +2,9 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="Coverage@NavBarToolbar" count="1" />
-      <entry action="Debug@NavBarToolbar" count="6" />
-      <entry action="Run@NavBarToolbar" count="285" />
-      <entry action="Stop@NavBarToolbar" count="102" />
+      <entry action="Debug@NavBarToolbar" count="9" />
+      <entry action="Run@NavBarToolbar" count="347" />
+      <entry action="Stop@NavBarToolbar" count="117" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="14" />
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="3" />
