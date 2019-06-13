@@ -28,7 +28,7 @@
       <entry action="Change method signature from usage" count="11" />
       <entry action="ChangeSignature" count="5" />
       <entry action="CheckForUpdate" count="2" />
-      <entry action="CheckinProject" count="9" />
+      <entry action="CheckinProject" count="10" />
       <entry action="ChooseRunConfiguration" count="2" />
       <entry action="CloseProject" count="1" />
       <entry action="CompileDirty" count="1" />
@@ -74,7 +74,7 @@
       <entry action="EditorNextWordWithSelection" count="1" />
       <entry action="EditorPageDown" count="28" />
       <entry action="EditorPageUp" count="10" />
-      <entry action="EditorPaste" count="442" />
+      <entry action="EditorPaste" count="443" />
       <entry action="EditorPreviousWord" count="3" />
       <entry action="EditorPreviousWordWithSelection" count="2" />
       <entry action="EditorRight" count="17220" />
@@ -111,6 +111,7 @@
       <entry action="Generate" count="67" />
       <entry action="Git.Add" count="1" />
       <entry action="Git.Init" count="1" />
+      <entry action="Git.Log" count="1" />
       <entry action="GotoAction" count="6" />
       <entry action="GotoClass" count="2" />
       <entry action="GotoDeclaration" count="3" />
@@ -137,7 +138,7 @@
       <entry action="Move to package  main.java.model " count="1" />
       <entry action="MoveStatementDown" count="250" />
       <entry action="MoveStatementUp" count="36" />
-      <entry action="NewClass" count="28" />
+      <entry action="NewClass" count="29" />
       <entry action="NewDir" count="37" />
       <entry action="NewElement" count="1" />
       <entry action="NewHtmlFile" count="3" />
@@ -164,7 +165,7 @@
       <entry action="Resume" count="4" />
       <entry action="Run" count="1039" />
       <entry action="RunToCursor" count="6" />
-      <entry action="SaveAll" count="35" />
+      <entry action="SaveAll" count="36" />
       <entry action="SaveFileAsTemplate" count="1" />
       <entry action="SearchEverywhere" count="2" />
       <entry action="Set language level" count="1" />
@@ -188,7 +189,10 @@
       <entry action="ToggleLineBreakpoint" count="40" />
       <entry action="Update Maven Indices" count="13" />
       <entry action="Vcs.Push" count="7" />
-      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="1" />
+      <entry action="Vcs.UpdateProject" count="2" />
       <entry action="ViewToolBar" count="4" />
       <entry action="Wrap Expression" count="7" />
     </counts>

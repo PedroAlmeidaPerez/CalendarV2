@@ -55,6 +55,9 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.800" x="445" y="104" />
     <location key="GitCloneDialog.0.0.1280.800" x="423" y="302" />
     <location key="NewModule_or_Project.wizard.0.0.1280.800" x="282" y="46" />
+    <location key="CommitChangelistDialog2.0.0.1280.800" x="260" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1280.800" x="316" y="125" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1280.800" x="415" y="269" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="225" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="225" />
@@ -73,5 +76,6 @@
     <size key="GridCell.Tab.1.right.1366.0.1680.1050" width="1636" height="225" />
     <size key="GridCell.Tab.1.bottom.1366.0.1680.1050" width="1636" height="225" />
     <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.1366.0.1680.1050" width="591" height="251" />
+    <size key="GitCloneDialog.0.0.1280.800" width="551" height="232" />
   </component>
 </application>
