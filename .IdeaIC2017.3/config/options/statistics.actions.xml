@@ -28,7 +28,7 @@
       <entry action="Change method signature from usage" count="11" />
       <entry action="ChangeSignature" count="5" />
       <entry action="CheckForUpdate" count="2" />
-      <entry action="CheckinProject" count="10" />
+      <entry action="CheckinProject" count="11" />
       <entry action="ChooseRunConfiguration" count="2" />
       <entry action="CloseProject" count="1" />
       <entry action="CompileDirty" count="1" />
@@ -52,7 +52,7 @@
       <entry action="Delete statement extracting side effects" count="1" />
       <entry action="Edit method contract" count="2" />
       <entry action="Edit options of reporter inspection" count="2" />
-      <entry action="EditorBackSpace" count="8606" />
+      <entry action="EditorBackSpace" count="8618" />
       <entry action="EditorChooseLookupItem" count="1052" />
       <entry action="EditorChooseLookupItemReplace" count="26" />
       <entry action="EditorContextInfo" count="1" />
@@ -62,7 +62,7 @@
       <entry action="EditorDeleteLine" count="15" />
       <entry action="EditorDown" count="9001" />
       <entry action="EditorDownWithSelection" count="462" />
-      <entry action="EditorEnter" count="1224" />
+      <entry action="EditorEnter" count="1226" />
       <entry action="EditorEscape" count="212" />
       <entry action="EditorLeft" count="14302" />
       <entry action="EditorLeftWithSelection" count="3052" />
@@ -165,7 +165,7 @@
       <entry action="Resume" count="4" />
       <entry action="Run" count="1039" />
       <entry action="RunToCursor" count="6" />
-      <entry action="SaveAll" count="36" />
+      <entry action="SaveAll" count="37" />
       <entry action="SaveFileAsTemplate" count="1" />
       <entry action="SearchEverywhere" count="2" />
       <entry action="Set language level" count="1" />
@@ -192,7 +192,7 @@
       <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="Vcs.RefreshStatuses" count="1" />
       <entry action="Vcs.ShowTabbedFileHistory" count="1" />
-      <entry action="Vcs.UpdateProject" count="2" />
+      <entry action="Vcs.UpdateProject" count="3" />
       <entry action="ViewToolBar" count="4" />
       <entry action="Wrap Expression" count="7" />
     </counts>
