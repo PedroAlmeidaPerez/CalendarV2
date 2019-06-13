@@ -1,13 +1,12 @@
 package mainApp;
 
 
-import main.java.controller.CalendarController;
-import main.java.view.Cabecera;
-import main.java.view.CalendarView;
+import controller.CalendarController;
+import model.CalendarModel;
+import view.CalendarView;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
 
         /**
   * Created by PedroAlmeida on 04.07.2017.
@@ -15,10 +14,13 @@ import java.util.GregorianCalendar;
  public class Main {
      public static void main(String[] args) {
 
+         Calendar calendar = new GregorianCalendar();
+
          Calendar model = new GregorianCalendar();
-         CalendarView view = new CalendarView(model);
-         Cabecera cabeceraView = new Cabecera(model);
-         CalendarController controller = new CalendarController(model, cabeceraView);
+         CalendarModel calendarModel = new CalendarModel();
+         CalendarView view = new CalendarView(calendar, calendarModel.getDdMmYyyy());
+
+         CalendarController control = new CalendarController(view, model);
 
      }
 }

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Insertar Producto</title>
+</head>
+
+<body>
+<br/>
+<div th:replace="fragments/header :: header"/>
+<br/>
+<br/>
+
+<form class="form-horizontal" th:object="${category}" th:action="@{/category/save}"  method="post">
+    <input type="hidden" th:field="*{id}"/>
+
+    <div class="product-group">
+        <label>Type</label>
+        <input type="text" th:value="[type]" th:field="*{type}"/>
+    </div>
+
+    <div class="product-group">
+        <label>Description</label>
+        <input type="text" th:value="[descrition]" th:field="*{description}"/>
+    </div>
+
+   <!-- <div class="product-group">
+            <label>Description</label>
+            <input type="text" th:value="[descrition]" th:field="*{description}"/>
+    </div>-->
+    <!--<div class="product-group">
+        <label>Price</label>
+        <input type="text" th:value="[price]" th:field="*{price}"/>
+    </div>
+    <div class="product-group">
+        <label>Image</label>
+        <input type="text" th:value="[image]" th:field="*{image}"/>
+    </div>-->
+    <div>
+        <button type="submit">Register...</button>
+    </div>
+</form>
+
+</body>
+</html>

@@ -2,16 +2,41 @@
   <component name="MainMenuCollector">
     <counts>
       <entry path="Build -&gt; Build Project" count="1" />
-      <entry path="Edit -&gt; Redo" count="1" />
-      <entry path="Edit -&gt; Undo" count="1" />
+      <entry path="Edit -&gt; Redo" count="6" />
+      <entry path="Edit -&gt; Undo" count="3" />
+      <entry path="File -&gt; Close Project" count="1" />
+      <entry path="File -&gt; Exit" count="1" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="3" />
       <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="1" />
       <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
-      <entry path="File -&gt; Save All" count="2" />
+      <entry path="File -&gt; New -&gt; Project..." count="5" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="1" />
+      <entry path="File -&gt; Open..." count="10" />
+      <entry path="File -&gt; Other Settings -&gt; Default Project Structure..." count="4" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="1" />
+      <entry path="File -&gt; Project Structure..." count="11" />
+      <entry path="File -&gt; Save All" count="5" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="Help -&gt; Check for Updates..." count="2" />
+      <entry path="Help -&gt; Find Action..." count="6" />
       <entry path="Run -&gt; Run..." count="2" />
-      <entry path="VCS -&gt; Commit" count="7" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="5" />
+      <entry path="Tools -&gt; Save File as Template..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="2" />
+      <entry path="VCS -&gt; Commit" count="8" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="7" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
       <entry path="VCS -&gt; Update Project" count="1" />
+      <entry path="View -&gt; Context Info" count="1" />
+      <entry path="View -&gt; Toggle Full Screen mode" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Event Log" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Maven Projects" count="1" />
       <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; TODO" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Version Control" count="4" />
+      <entry path="View -&gt; Toolbar" count="4" />
     </counts>
   </component>
 </application>

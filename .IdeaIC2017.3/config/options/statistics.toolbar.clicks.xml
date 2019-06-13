@@ -1,13 +1,26 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="Coverage@NavBarToolbar" count="1" />
-      <entry action="Debug@NavBarToolbar" count="9" />
-      <entry action="Run@NavBarToolbar" count="347" />
-      <entry action="Stop@NavBarToolbar" count="117" />
+      <entry action="CheckinProject@ChangesViewToolbar" count="1" />
+      <entry action="Coverage@NavBarToolbar" count="4" />
+      <entry action="Debug@NavBarToolbar" count="29" />
+      <entry action="Debugger.PopFrame@DebuggerToolbar" count="15" />
+      <entry action="EditorToggleUseSoftWrapsInPreview@ContextToolbar" count="5" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="11" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="2" />
+      <entry action="Run@NavBarToolbar" count="1038" />
+      <entry action="RunToCursor@DebuggerToolbar" count="6" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="1" />
+      <entry action="StepInto@DebuggerToolbar" count="2" />
+      <entry action="StepOut@DebuggerToolbar" count="4" />
+      <entry action="StepOver@DebuggerToolbar" count="3" />
+      <entry action="Stop@NavBarToolbar" count="457" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
-      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="14" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="19" />
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="12" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="14" />
     </counts>
   </component>
 </application>

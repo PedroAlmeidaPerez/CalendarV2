@@ -2,28 +2,76 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Documents/ProyectosSpring/demo/Library" />
+        <option value="$USER_HOME$/Documents/ProyectosSpring/demo/pruebas" />
+        <option value="$USER_HOME$/Documents/ProyectosSpring/onlineShop/onlineShop" />
+        <option value="$USER_HOME$/Documents/ProyectosSpring/demo/demo" />
+        <option value="$USER_HOME$/IdeaProjects/pruebaMVC" />
         <option value="$USER_HOME$/IdeaProjects/CalendarV2" />
         <option value="$USER_HOME$/IdeaProjects/CalendarDesktop" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/IdeaProjects/CalendarDesktop" />
-        <option value="$USER_HOME$/IdeaProjects/CalendarV2" />
+        <option value="$USER_HOME$/Documents/ProyectosSpring/demo/Library" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/IdeaProjects/CalendarV2" />
-    <option name="pid" value="6184" />
+    <option name="lastPath" value="$USER_HOME$/Documents/ProyectosSpring/demo/Library" />
+    <option name="pid" value="13344" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/Documents/ProyectosSpring/demo/Library">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560421492705" />
+              <option name="buildTimestamp" value="1511791631732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/ProyectosSpring/demo/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513172523604" />
+              <option name="buildTimestamp" value="1511791642628" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/ProyectosSpring/demo/pruebas">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560418668715" />
+              <option name="buildTimestamp" value="1511791631732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/ProyectosSpring/onlineShop/onlineShop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515663105892" />
+              <option name="buildTimestamp" value="1511791653764" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/CalendarDesktop">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IC-173.3727.127" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1512563249891" />
-              <option name="buildTimestamp" value="1511791623367" />
+              <option name="projectOpenTimestamp" value="1512747332313" />
+              <option name="buildTimestamp" value="1511791638086" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -33,13 +81,24 @@
               <option name="build" value="IC-173.3727.127" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1512563249891" />
-              <option name="buildTimestamp" value="1511791623367" />
+              <option name="projectOpenTimestamp" value="1513094474020" />
+              <option name="buildTimestamp" value="1511791637403" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/pruebaMVC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.3727.127" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513155583654" />
+              <option name="buildTimestamp" value="1511791641407" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/ProyectosSpring/demo" />
   </component>
 </application>

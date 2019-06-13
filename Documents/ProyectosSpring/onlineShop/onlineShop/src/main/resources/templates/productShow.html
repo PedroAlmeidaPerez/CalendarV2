@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Insertar Producto</title>
+</head>
+
+<body>
+<br/>
+<div th:replace="fragments/header :: header"/>
+<br/>
+<br/>
+    <div>
+
+        <form class="form-horizontal" th:object="${product}" style="margin: 10px">
+            <div>
+                <fieldset>
+                    <div>
+                        <label>Name: </label>
+                        <!--<label th:text="${product.name}" th:field="*{name}"/>-->
+                        <span th:text="${product.name}"></span>
+                        <!--<label type="text" th:value="[name]" th:field="*{description}"/>-->
+                    </div>
+                    <div>
+                        <label>Description: </label>
+                        <span th:text="${product.description}"></span>
+                    </div>
+                    <div>
+                        <label>Price: </label>
+                        <span th:text="${product.price}"></span>
+                    </div>
+                    <div>
+                        <label>Image: </label>
+                        <span th:text="${product.image}"></span>
+                    </div>
+
+                </fieldset>
+            </div>
+            <div class="form-group row">
+                <button type="submit" class="btn btn-sm btn-primary">Salvar</button>
+                <a th:href="@{/product/insertarProducto}" class="btn btn-sm btn-default">Insert another product</a>
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>

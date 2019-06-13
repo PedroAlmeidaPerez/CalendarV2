@@ -3,7 +3,7 @@
     <location key="GitCloneDialog.0.0.1366.768" x="496" y="252" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="126" />
     <location key="new project wizard.0.0.1366.768" x="336" y="0" />
-    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="336" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="336" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="195" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1366.768" x="406" y="66" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
@@ -26,22 +26,52 @@
     <location key="com.intellij.ide.util.TipDialog.1366.0.1680.1050" x="1872" y="351" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1366.0.1680.1050" x="1880" y="0" />
     <location key="refactoring.ChangeSignatureDialog.1366.0.1680.1050" x="1946" y="159" />
+    <location key="Maven.ArtifactSearchDialog.1366.0.1680.1050" x="1736" y="182" />
+    <location key="FileChooserDialogImpl.1366.0.1680.1050" x="1986" y="282" />
+    <location key="new project wizard.1366.0.1680.1050" x="1855" y="157" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1366.0.1680.1050" x="1929" y="222" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1366.0.1680.1050" x="1873" y="443" />
+    <location key="SettingsEditor.1366.0.1680.1050" x="1684" y="183" />
+    <location key="SettingsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1366.0.1680.1050" x="1936" y="274" />
+    <location key="#xdebugger.evaluate.1366.0.1680.1050" x="2083" y="278" />
+    <location key="save.file.as.template.dialog.1366.0.1680.1050" x="1986" y="332" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.1366.0.1680.1050" x="1908" y="505" />
+    <location key="#Project_Structure.1366.0.1680.1050" x="1686" y="101" />
+    <location key="#Browse_Repositories.1366.0.1680.1050" x="1785" y="182" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1366.0.1680.1050" x="1991" y="382" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.1366.0.1680.1050" x="1991" y="411" />
+    <location key="#Inspections.1366.0.1680.1050" x="1838" y="209" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="1919" y="297" />
+    <location key="#Plugins.0.0.1366.768" x="275" y="29" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1366.768" x="413" y="150" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1366.768" x="454" y="123" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="306" y="211" />
+    <location key="SettingsEditor.0.0.1280.800" x="120" y="0" />
+    <location key="new project wizard.0.0.1280.800" x="289" y="17" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1280.800" x="363" y="82" />
+    <location key="FileChooserDialogImpl.0.0.1280.800" x="420" y="142" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1280.800" x="286" y="117" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.800" x="445" y="104" />
+    <location key="GitCloneDialog.0.0.1280.800" x="423" y="302" />
+    <location key="NewModule_or_Project.wizard.0.0.1280.800" x="282" y="46" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="170" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="170" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="170" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="170" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="234" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="234" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="234" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="234" />
-    <size key="GridCell.Tab.0.left.1366.0.1680.1050" width="1680" height="263" />
-    <size key="GridCell.Tab.0.center.1366.0.1680.1050" width="1680" height="263" />
-    <size key="GridCell.Tab.0.right.1366.0.1680.1050" width="1680" height="263" />
-    <size key="GridCell.Tab.0.bottom.1366.0.1680.1050" width="1680" height="263" />
-    <size key="GridCell.Tab.1.left.1366.0.1680.1050" width="1680" height="358" />
-    <size key="GridCell.Tab.1.center.1366.0.1680.1050" width="1680" height="358" />
-    <size key="GridCell.Tab.1.right.1366.0.1680.1050" width="1680" height="358" />
-    <size key="GridCell.Tab.1.bottom.1366.0.1680.1050" width="1680" height="358" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.left.1366.0.1680.1050" width="1636" height="438" />
+    <size key="GridCell.Tab.0.center.1366.0.1680.1050" width="1636" height="438" />
+    <size key="GridCell.Tab.0.right.1366.0.1680.1050" width="1636" height="438" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1680.1050" width="1636" height="438" />
+    <size key="GridCell.Tab.1.left.1366.0.1680.1050" width="1636" height="225" />
+    <size key="GridCell.Tab.1.center.1366.0.1680.1050" width="1636" height="225" />
+    <size key="GridCell.Tab.1.right.1366.0.1680.1050" width="1636" height="225" />
+    <size key="GridCell.Tab.1.bottom.1366.0.1680.1050" width="1636" height="225" />
+    <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.1366.0.1680.1050" width="591" height="251" />
   </component>
 </application>
