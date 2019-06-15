@@ -9,6 +9,7 @@
       <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
       <entry action="FileChooser.Refresh@FileChooserDialog" count="11" />
       <entry action="ForceStepInto@DebuggerToolbar" count="2" />
+      <entry action="Print@VcsManager" count="1" />
       <entry action="Run@NavBarToolbar" count="1264" />
       <entry action="RunToCursor@DebuggerToolbar" count="6" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="1" />
@@ -16,10 +17,12 @@
       <entry action="StepOut@DebuggerToolbar" count="4" />
       <entry action="StepOver@DebuggerToolbar" count="3" />
       <entry action="Stop@NavBarToolbar" count="619" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@VcsManager" count="1" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="19" />
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="3" />
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="12" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@VcsManager" count="1" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="14" />
     </counts>
   </component>

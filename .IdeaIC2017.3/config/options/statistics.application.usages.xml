@@ -4,10 +4,10 @@
       <entry feature="OpenInBrowser.Chrome" count="11" />
       <entry feature="OpenInBrowser.Internet Explorer" count="1" />
       <entry feature="StripeButton[Version Control].hidden" count="1" />
-      <entry feature="StripeButton[Version Control].shown" count="4" />
+      <entry feature="StripeButton[Version Control].shown" count="6" />
       <entry feature="execute.Application.Coverage" count="5" />
       <entry feature="execute.Application.Debug" count="78" />
-      <entry feature="execute.Application.Run" count="1264" />
+      <entry feature="execute.Application.Run" count="1265" />
       <entry feature="execute.HybrisTests.Coverage" count="1" />
       <entry feature="execute.HybrisTests.Debug" count="2" />
       <entry feature="execute.HybrisTests.Run" count="36" />
@@ -16,7 +16,7 @@
       <entry feature="ideaapp.started" count="45" />
       <entry feature="swing-designer.edit" count="7" />
       <entry feature="swing-designer.open" count="6" />
-      <entry feature="terminal.win" count="5" />
+      <entry feature="terminal.win" count="8" />
       <entry feature="tips.of.the.day.next" count="5" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="4" />

@@ -63,6 +63,10 @@
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="161" y="0" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.800" x="377" y="226" />
     <location key="find.popup.0.0.1280.800" x="352" y="125" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1280.800" x="474" y="128" />
+    <location key="#Project_Structure.0.0.1280.800" x="120" y="0" />
+    <location key="chooseDestDirectoryDialog.0.0.1280.800" x="454" y="164" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1280.800" x="170" y="42" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="223" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="223" />
