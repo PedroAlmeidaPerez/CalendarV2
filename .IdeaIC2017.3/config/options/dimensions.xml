@@ -58,15 +58,20 @@
     <location key="CommitChangelistDialog2.0.0.1280.800" x="260" y="0" />
     <location key="Vcs.Push.Dialog.0.0.1280.800" x="316" y="125" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1280.800" x="415" y="269" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.800" x="370" y="142" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.800" x="394" y="0" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="161" y="0" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.800" x="377" y="226" />
+    <location key="find.popup.0.0.1280.800" x="352" y="125" />
     <size key="GitCloneDialog.0.0.1366.768" width="379" height="216" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="225" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="223" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="223" />
     <size key="GridCell.Tab.0.left.1366.0.1680.1050" width="1636" height="438" />
     <size key="GridCell.Tab.0.center.1366.0.1680.1050" width="1636" height="438" />
     <size key="GridCell.Tab.0.right.1366.0.1680.1050" width="1636" height="438" />
@@ -76,6 +81,15 @@
     <size key="GridCell.Tab.1.right.1366.0.1680.1050" width="1636" height="225" />
     <size key="GridCell.Tab.1.bottom.1366.0.1680.1050" width="1636" height="225" />
     <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.1366.0.1680.1050" width="591" height="251" />
-    <size key="GitCloneDialog.0.0.1280.800" width="551" height="232" />
+    <size key="GitCloneDialog.0.0.1280.800" width="568" height="232" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.1.left.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.1.center.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.1.right.0.0.1280.800" width="1236" height="237" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.800" width="1236" height="237" />
+    <size key="find.popup.0.0.1280.800" width="803" height="621" />
   </component>
 </application>
